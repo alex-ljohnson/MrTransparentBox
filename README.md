@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrTransparentBox
 - 👀 I’m interested in Physics and computer science
-- 🌱 I’m currently learning python and java programming
+- 🌱 I’m currently learning Python and C# programming
 - 📫 How to reach me: 16JohnA28@gmail.com
 
 <!---
